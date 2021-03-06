@@ -1,0 +1,19 @@
+<html>
+<title>kp</title>
+<script src="https://storage.googleapis.com/vrview/2.0/build/vrview.min.js"></script>
+<script>
+window.addEventListener('load', onVrViewLoad);
+function onVrViewLoad() {
+  var vrView = new VRView.Player('#vrview', {
+    image: 'https://gg-oer.github.io/virtual_views/Kashiwanoha_park/kp.JPG',
+    width: '100%',
+    height:'100%',
+    is_vr_off: 'true'
+  });
+}
+</script>
+<body>
+<div id='vrview' style="width:100%; height:100%"></div>
+
+</body>
+</html>
