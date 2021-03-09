@@ -11,20 +11,11 @@ function onVrViewLoad() {
   });
 }
 
-const mediasVol_def=function(){
-      const audios=document.getElementsByTagName('audio');
-      for(let n=0; audios.length>n; n++){ audios[n].volume = 0.1; }
-}
-
-window.addEventListener('DOMContentLoaded' , function(){
-      mediasVol_def();
-}, false);
 </script>
 
 <body>
 
-<div id='vrview' style="width:80%; height:80%"></div>
-<audio src="../sounds/kashiwanoha_park.wav" loop controls></audio>
+<div id='vrview' style="width:100%; height:100%"></div>
 
 </body>
 </html>
