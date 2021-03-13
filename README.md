@@ -5,8 +5,8 @@ You can view 360° photos from below list. The VR contents were created using Go
 
 |Name|Country|Note|
 |---|---|---|
-|[Kashiwanoha Park・柏の葉公園](https://gg-oer.github.io/virtual_views/Kashiwanoha_park/)|Japan|[Sound](./sounds/kp_audio_ver.html)|
-|[Konbukuro Lake・こんぶくろ池](https://gg-oer.github.io/virtual_views/Konbukuro/)|Japan|[Sound](./sounds/konbukuro_audio_ver.html)|
+|[Kashiwanoha Park・柏の葉公園](https://gg-oer.github.io/virtual_views/Kashiwanoha_park/)|Japan|[Sound](./sounds/kp_audio.html)|
+|[Konbukuro Lake・こんぶくろ池](https://gg-oer.github.io/virtual_views/Konbukuro/)|Japan|[Sound](./sounds/konbukuro_audio.html)|
 |[Akiyoshidai・秋吉台](https://gg-oer.github.io/virtual_views/Akiyoshidai/)|Japan||
 |[Tiananmen・天安門](https://gg-oer.github.io/virtual_views/Tiananmen/)|China||
 |[Lugano city・ルガーノの町並み](https://gg-oer.github.io/virtual_views/Lugano/)|Switzerland||
