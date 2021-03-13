@@ -1,5 +1,4 @@
 # VR
-You can view 360° photos from below list. The VR contents were created using Google VR View.
 
 下記のリストから、360°画像を表示できます。VRのページは、Google VR Viewを用いて作成しました。
 
@@ -15,8 +14,9 @@ You can view 360° photos from below list. The VR contents were created using Go
 |[Qutb Minar_1・クトゥブ・ミナール](https://gg-oer.github.io/virtual_views/QutbMinar_1)|India||
 |[Qutb Minar_2・クトゥブ・ミナール](https://gg-oer.github.io/virtual_views/QutbMinar_2)|India||
 
-## Skypixcel contents
-Skypixel is aerial photos and videos share site. Users can view contents which were taken by various places while using the VR function.
+## Skypixcel 
+Skypixelは、航空写真やビデオの共有サイトです。様々な地域の写真等を360°でみることができます。'Accept all cookies'をクリックしてから、閲覧してください。
+
 
 |Name|Note|
 |---|---|
@@ -32,5 +32,6 @@ Skypixel is aerial photos and videos share site. Users can view contents which w
 | [天安門広場（中国）](https://www.skypixel.com/photos/tiananmen-square)||
 | [ルガーノ市街（スイス）](https://www.skypixel.com/photo360s/lugano-0e3a5d3b-44f0-4174-b2e7-49a1d96005e2)||
 
-## URL of this page.
+## QR
 ![qr](./qrcode.png)
+
