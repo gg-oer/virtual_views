@@ -14,9 +14,11 @@
 |[Qutb Minar_1・クトゥブ・ミナール](https://gg-oer.github.io/virtual_views/QutbMinar_1)|India||
 |[Qutb Minar_2・クトゥブ・ミナール](https://gg-oer.github.io/virtual_views/QutbMinar_2)|India||
 
+# [バーチャル景観展](https://gg-oer.github.io/virtual_views/webgl)
+PCのみ、上記の写真等がWeb空間で閲覧できます。マウスで視点の操作、方向キーで移動できます。
+
 ## Skypixcel 
 Skypixelは、航空写真やビデオの共有サイトです。様々な地域の写真等を360°でみることができます。'Accept all cookies'をクリックしてから、閲覧してください。
-
 
 |Name|Note|
 |---|---|
