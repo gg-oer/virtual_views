@@ -37,3 +37,5 @@ Skypixelは、航空写真やビデオの共有サイトです。様々な地域
 ## QR
 ![qr](./qrcode.png)
 
+## [関連地域の地図](https://earth.google.com/earth/d/1ErjGb8dnotfodMkkfhuYUmqemjx_i0nP?usp=sharing)
+上記のうち、青アイコンがVR、オレンジアイコンが地形模型の事例を示します。
